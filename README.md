@@ -6,3 +6,6 @@
 
 기존 사이트
 https://www.gn.go.kr/tour/index.do
+
+연습 사이트
+https://zl1270.github.io/gn_tour/
